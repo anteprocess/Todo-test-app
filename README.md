@@ -13,7 +13,7 @@ JetPackからのコンポーネンツを使用してます:
 、削除
 、タスクのステータス(未完了・完了)を行うことできます。一応、SearchViewを使ってTODO項目をライブ検索をすることも可能です。
 
-このプロジェクトはXperia XZ1:OS9のみでしか動作確認をしていますん。
+このプロジェクトはXperia XZ1:OS9のみでしか動作確認をしていません。
 
 確認用のAPK(Debug)+Screenshotは下記のフォルダーに添付致しました。
 https://github.com/anteprocess/Todo-test-app/tree/master/app/sample
