@@ -15,3 +15,6 @@ JetPackからのコンポーネンツを使用してます:
 
 このプロジェクトはXperia XZ1:OS9のみでしか動作確認をしていますん。
 
+確認用のAPK(Debug)+Screenshotは下記のフォルダーに添付致しました。
+https://github.com/anteprocess/Todo-test-app/tree/master/app/sample
+
